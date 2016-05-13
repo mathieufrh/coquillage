@@ -1,0 +1,352 @@
+help
+exit
+help
+set
+set sohaib a
+quit
+exit
+exit
+exit
+ls
+ls;ls;
+ls;ls;
+exit
+gedit &
+exi
+exi
+t
+exit
+ls||ls
+ls|ls
+ls|grep a
+ls|grep a|grep m
+exit
+||
+ls;
+ls;|
+exit
+ls
+ls
+ls
+ls
+ls;ls;
+ls *.c
+ls *.c
+ls *.c *.c
+ls
+ls *.h
+ls
+ls *.txt
+ls
+exit
+ls *.c
+ls *.c ../*.c
+ls *.c
+ls ../*.c
+ls
+ls
+ls
+ls *.c
+ls *.c
+ls
+ls;ls;
+ls|grep a
+help
+set sohaib soh
+echo
+echo sohaib
+echo sohaib
+echo $sohaib
+echo &sohaib
+ls
+ls *.c
+ls
+exit
+ls *.c
+ls *.h
+ls -l
+ls m*
+ls m*
+ls -l *m
+ls -l
+ls -l *.c
+exit
+ls *.c
+ls -l *.c
+ls *.h
+ls
+ls
+ls
+ls .*
+exit
+ls
+ls &
+ls&
+ls &
+ls *.c
+exit
+ls
+ls;ls;
+ls|grep a
+ls|grep a;
+ls|grep a;ls
+help
+exit
+ls
+exit
+ls
+ls|grep l
+ls
+exit
+ls
+ls | grep r
+ls; ls;
+ls|grep a ; ls
+exit
+ls
+help
+exit
+history 
+exit
+cat main.c |grep a|grep m
+clear
+exit
+ls
+ls -l
+ls -l|more
+ls&l 
+ls&exit
+exit
+ls&
+ls &
+ls&
+ls &
+ls /
+ls &
+ls
+ll
+ls -ails
+ps
+sp -a
+ps -a
+ls&
+ls &
+ps
+ls;ls
+ls;ls;ls
+ls
+ls|more
+exit
+exit
+exit
+exit
+history
+exit
+exit
+exit
+exit
+exit
+echo x
+echo x
+exit
+exit
+hi
+exit
+echo hi
+sleep 2
+echo hi
+exit
+echo hi
+exit
+ls
+ls
+ls
+exit
+hello
+hello
+hello
+hello
+hello
+ls
+ls
+ls
+exit
+ls
+ls
+ls
+ls
+exit
+ls
+ls
+ls
+exit
+ls
+ls
+ls
+ls
+ls
+exit
+ls
+ls
+echo x
+ls
+ls
+exit
+ls
+ls
+ls
+ls
+ls
+echo l
+exit
+ls
+echo l
+ls
+exit
+ls
+exit
+ls
+echo x
+exit
+ls
+ls | grep compile
+ls | grep c*
+exit
+ls
+echo hello
+xc "hello world"
+wc "hello world"
+wc hello world
+wc Hystory
+wc History
+exit
+ls
+echo hi
+ls
+echo hi
+quit
+ls
+echo hi
+ls -alf
+ls -a
+ls -al
+exit
+ls
+ls -al
+ls
+echo x
+ls
+echo x
+ls
+exit
+ls
+echo hello
+quit
+ls
+echo hello
+quit
+ls
+echo hello
+exit
+echo hello
+ls
+exit
+ls
+echo hello
+quit
+sleep 2 &
+quit
+sleep 2 &
+quit
+ls
+sleep 2 &
+exit
+ls
+echo x
+exit
+ls
+echo x
+exit
+sleep 2 &
+exit
+ls
+exit
+history
+exit
+cd jm
+history
+ls
+history
+exit
+history
+ls
+ls -alf
+ls -al
+echo hello
+sleep 2 &
+sleep 3
+quit
+echo hello || grep ll
+exit
+ls -al
+echo hello
+echo His*
+sleep 5 &
+sleep 2
+exit
+ls -a
+echo His*
+exit
+sleep 5 &
+sleep 2
+exit
+ls -a
+cd /~Document/OS/shell
+cd /~Documents/OS/shell
+cd ~Documents/OS/shell
+cd ~/Documents/OS/shell
+cd ./minishell_fr
+echo His*
+echo M*
+echo M* | grep file
+echo hello | grep ll
+cwd
+ls | grep file
+exit
+ls | grep file
+exit
+ls | grep file
+echo hello
+quit
+echo hello miami > toto
+exit
+cat History >> toto
+exit
+cat History >> toto
+cat History >> toto
+cat History > toto
+echo hello world >> toto
+quit
+sleep 2
+sleep 2 &
+exit
+quit
+echo bye
+exit
+exho hello
+echo hello
+exit
+echo hello
+exit
+echo hello
+exit
+echo hello
+exit
+echo hello
+exit
+echo hello && exit
+exit
+echo hello && echo world
+exit
+echo hello
+exit
